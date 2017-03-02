@@ -1,0 +1,43 @@
+---
+timezone: Europe/Madrid
+baseurl: ''
+url: https://arafo.github.io
+title: Rafael Marcén
+author: Rafael Marcén
+languages:
+- en
+- es
+google_font_sans_serif: Source+Sans+Pro:300
+flickr_user: 131006004@N06
+flickr_api_key: adb4be93419edab991522b4fa92b7029
+default_header_img_dimensions: width="1024" height="1024"
+default_thubmnail_img_dimensions: width="768" height="768"
+safe: true
+encoding: utf-8
+markdown: kramdown
+exclude:
+- cibuild
+- Gemfile
+- Gemfile.lock
+- package.json
+- README.md
+- vendor
+defaults:
+- scope:
+    path: en
+  values:
+    lang: en
+    description: Personal website of Rafael Marcén, Computer Science 
+      graduate from University of Zaragoza.
+- scope:
+    path: ''
+  values:
+    lang: es
+    description: Web Personal de Rafael Marcén, Ingeniero Informático 
+      graduado por la Universidad de Zaragoza.
+- scope:
+    path: es
+  values:
+    lang: es
+sass:
+  style: compressed

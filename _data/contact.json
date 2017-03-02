@@ -1,0 +1,54 @@
+{ 
+  "heading" : {
+    "en" : "Contact",
+  	"es" : "Contacto" },
+
+  "cv" : {
+    "file" : "/cv.pdf",
+    "qr_svg" : "",
+    "qr_fallback" : "cv-qr.png" },
+
+  "cv_label" : {
+    "label" : {
+      "en" : "Curriculum Vitae",
+      "es" : "Curriculum Vitae" },
+    "download_file" : {
+      "en" : "Download file",
+      "es" : "Descargar fichero" },
+    "scan_qr_code" : {
+      //"en" : "or scan QR code:",
+      //"es" : "o escanear el código QR:" }
+  },
+
+  "email" : "rafa.marcen@gmail.com", 
+
+  "email_label" : {
+    "en" : "E-Mail",
+    "es" : "E-Mail" },
+
+  "alternative_emails" : [ 
+  	"rafa_marcen@hotmail.com" ],
+
+  "alternative_label" : {
+    "en" : "Other",
+    "es" : "Otro" },
+
+  "phone" : { 
+    "en" : "+34 658 188 788",
+    "es" : "658 188 788" },
+
+  "phone_label" : {
+    "en" : "Phone",
+    "es" : "Teléfono" },
+
+  "refs" : [ 
+  	{ "name" : "LinkedIn", "href" : "https://linkedin.com/in/rafamarcen" },
+  	{ "name" : "GitHub", "href" : "https://github.com/arafo" },
+  	{ "name" : "YouTube", "href" : "https://www.youtube.com/user/rafazgz93" },
+  	],
+
+  "refs_label" : {
+    "en" : "More",
+    "es" : "Más" },
+
+}

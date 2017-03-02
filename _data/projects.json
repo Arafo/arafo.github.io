@@ -1,0 +1,118 @@
+{
+  "heading" : {
+    "en" : "Projects",
+    "es" : "Proyectos" },
+
+  "projects" : [ 
+
+    { "key"       : "cardflip2017",
+      "title"     : "Card Flip",
+      "date"      : "2017-02-18",
+      "status"    : "ongoing",
+
+      "caption"   : {
+        "en" : "My first comercial game. Ongoing.",
+        "es" : "Mi primer juego comercial. En desarrollo." },
+
+      "authors"   : [ "Rafael Marcén" ],
+      "thumbnail" : "2017-cardflip.png",
+      "downloads" : [
+        { "href"  : "https://github.com/arafo/Card-Flip",
+          "desc"  : {
+            "en"  : "Project",
+            "es"  : "Proyecto"
+            }
+        } ],
+    },
+    { "key"       : "syncopia2017",
+      "title"     : "Syncopia",
+      "date"      : "2017-02-17",
+     
+      "caption"   : {
+        "en" : "3D racing videogame made with Unity. Computer Science final year project for University of Zaragoza.",
+        "es" : "Juego de carreras de naves en 3D realizado en Unity. TFG en Ingeniería Informática para la Universidad de Zaragoza." },
+
+      "authors"   : [ "Rafael Marcén" ],
+      "thumbnail" : "2017-syncopia.png",
+      "downloads" : [
+        { "href"  : "http://arafo.github.io/Syncopia",
+          "desc"  : {
+            "en"  : "Project",
+            "es"  : "Proyecto"
+            }
+        } ],
+    },
+    { "key"       : "photonmapping2017",
+      "title"     : "Photon Mapping",
+      "date"      : "2017-01-19",
+
+      "caption"   : {
+        "en" : "A basic functional photon mapper as described by Jensen in his initial works.",
+        "es" : "Photon mapper funcional básico como lo describe Jensen en sus trabajos iniciales." },
+
+      "authors"   : [ "Rafael Marcén, Jaime Puig" ],
+      "thumbnail" : "2017-photonmapping.png",
+      "downloads" : [
+        { "href"  : "https://github.com/Arafo/PhotonMapping",
+          "desc"  : {
+            "en"  : "Project",
+            "es"  : "Proyecto"
+            }
+        } ],
+    },
+    { "key"      : "raytracer2016",
+      "title"     : "Ray Tracer",
+      "date"      : "2016-12-21",
+
+      "caption"   : {
+        "en" : "Simple ray tracer. It supports phong lighting, Monte Carlo indirect lighting, reflections, refractions, textures, 3D models and more.",
+        "es" : "Ray tracer simple. Soporta iluminación de phong, iluminación indirecta con Monte Carlo, reflexiones, refracciones, texturas, modelos 3D y más." },
+
+      "authors"   : [ "Rafael Marcén, Jaime Puig" ],
+      "thumbnail" : "2016-raytracer.png",
+      "downloads" : [
+        { "href"  : "https://github.com/Arafo/RayTracer",
+          "desc"  : {
+            "en"  : "Project",
+            "es"  : "Proyecto"
+            }
+        } ]
+    },
+    { "key"      : "dynablaster2015",
+      "title"     : "DynaBlaster",
+      "date"      : "2015-02-23",
+
+      "caption"   : {
+        "en" : "2D and 3D Amiga Dyna Blaster clone made with Java and OpenGL.",
+        "es" : "Clon en 2D y 3D de la versión de Amiga de Dyna Blaster hecho con Java y OpenGL." },
+
+      "authors"   : [ "Rafael Marcén", "Rubén Tomás", "David Orera" ],
+      "thumbnail" : "2015-dynablaster.png",
+      "downloads" : [
+        { "href"  : "https://github.com/valarion/Videjuegos1415G5",
+          "desc"  : {
+            "en"  : "Project",
+            "es"  : "Proyecto"
+            }
+        } ]
+    },
+    { "key"      : "steamidle2014",
+      "title"     : "Steam Idle",
+      "date"      : "2014-09-14",
+
+      "caption"   : {
+        "en" : "Application to automate card drops on the Steam platform.",
+        "es" : "Aplicación para automatizar la obtención de cromos en la plataforma Steam." },
+
+      "authors"   : [ "Rafael Marcén" ],
+      "thumbnail" : "2014-steam.png",
+      "downloads" : [
+        { "href"  : "https://github.com/Arafo/Steam-Idle",
+          "desc"  : {
+            "en"  : "Project",
+            "es"  : "Proyecto"
+            }
+        } ]
+    },
+    ]
+}

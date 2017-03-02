@@ -1,0 +1,15 @@
+{ 
+  "heading" : {
+  	"en" : "Rafael Marcén",
+  	"es" : "Rafael Marcén" },
+
+  "lead" : { 
+  	"en" : "Computer Science graduate from University of Zaragoza.",
+  	"es" : "Ingeniero Informático graduado por la Universidad de Zaragoza." },
+
+  "about" : {
+  	"en" : "",
+  	"es" : "" },
+
+  "picture" : ""
+}
