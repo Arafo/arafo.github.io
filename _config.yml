@@ -1,7 +1,7 @@
 ---
 timezone: Europe/Madrid
 baseurl: ''
-url: https://arafo.github.io
+url: 'https://arafo.github.io'
 title: Rafael Marcén
 author: Rafael Marcén
 languages:
