@@ -4,7 +4,7 @@
   </div>
 </div>
 
-{% assign education = site.data.education.education | sort:"date" %}
+{% assign education = site.data.education.education | sort:"date_end" %}
 {% for t in education reversed %}
 <div class="row{% if t != education.last %} mt-0{% endif %}">
 
