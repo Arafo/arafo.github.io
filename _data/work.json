@@ -7,7 +7,23 @@
 
     { "date"      : "2016-06-01 00:00:00",
       "date_end"  : "2016-09-01 00:00:00",
+      "position"  : {
+            "en"  : "Software Developer",
+            "es"  : "Desarrollador Software"
+            },
       "title"     : "Ingenia Sistemas Avanzados para el Transporte S.L.",
+      "location"  : "Zaragoza, España"
+    },
+    { "date"      : "2017-05-02 00:00:00",
+      "date_end"  : {
+            "en"  : "Present",
+            "es"  : "Actualidad"
+            },
+      "position"  : {
+            "en"  : "Mobile Intern",
+            "es"  : "Mobile Intern"
+            },
+      "title"     : "adidas Group",
       "location"  : "Zaragoza, España"
     } ]
 }

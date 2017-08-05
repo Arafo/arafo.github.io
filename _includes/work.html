@@ -10,11 +10,16 @@
 
   <div class="col-md-3 text-md-right">
     {{ t.date | date : "%m/%Y -" }}
-    {{ t.date_end | date : "%m/%Y" }}
+    {% if t.date_end[page.lang] %}
+          {{ t.date_end[page.lang] }}
+    {% else %}
+        {{ t.date_end | date : "%m/%Y" }}
+    {% endif %}
   </div>
 
   <div class="col-md-9">
-    <h5>{{ t.title | escape }}</h5>
+    <h5>{{ t.position[page.lang] | escape }}</h5>
+    <h6>{{ t.title }}</h6>
     <p><span class="text-muted">{{ t.location | escape }}
     {% if t.downloads %} |
     {% for download in t.downloads %}
