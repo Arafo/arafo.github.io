@@ -4,8 +4,8 @@
     "es" : "Experiencia laboral" },
 
   "work" : [
-
-    { "date"      : "2016-06-01 00:00:00",
+    { 
+      "date"      : "2016-06-01 00:00:00",
       "date_end"  : "2016-09-01 00:00:00",
       "position"  : {
             "en"  : "Software Developer",
@@ -14,16 +14,38 @@
       "title"     : "Ingenia Sistemas Avanzados para el Transporte S.L.",
       "location"  : "Zaragoza, España"
     },
-    { "date"      : "2017-05-02 00:00:00",
-      "date_end"  : {
-            "en"  : "Present",
-            "es"  : "Actualidad"
-            },
+    { 
+      "date"      : "2017-05-02 00:00:00",
+      "date_end"  : "2018-06-01 00:00:00",
       "position"  : {
             "en"  : "Mobile Intern",
             "es"  : "Mobile Intern"
             },
       "title"     : "adidas Group",
       "location"  : "Zaragoza, España"
-    } ]
+    },
+    { 
+      "date"      : "2018-06-01 00:00:00",
+      "date_end"  : "2020-02-01 00:00:00",
+      "position"  : {
+            "en"  : "Junior iOS Software Developer",
+            "es"  : "Junior iOS Software Developer"
+            },
+      "title"     : "adidas Group",
+      "location"  : "Zaragoza, España"
+    },
+    { 
+      "date"      : "2020-02-01 00:00:00",
+      "date_end"  : {
+            "en"  : "Present",
+            "es"  : "Actualidad"
+            },
+      "position"  : {
+            "en"  : "iOS Software Developer",
+            "es"  : "iOS Software Developer"
+            },
+      "title"     : "adidas Group",
+      "location"  : "Zaragoza, España"
+    }
+  ]
 }

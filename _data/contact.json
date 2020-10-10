@@ -4,7 +4,7 @@
   	"es" : "Contacto" },
 
   "cv" : {
-    "file" : "/cv.pdf",
+    "file" : "https://www.dropbox.com/s/99hla4i14ccb8na/CV-3.pdf?raw=1",
     "qr_svg" : "",
     "qr_fallback" : "cv-qr.png" },
 
@@ -50,5 +50,5 @@
   "refs_label" : {
     "en" : "More",
     "es" : "Más" },
-
+  }
 }

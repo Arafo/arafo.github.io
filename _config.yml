@@ -24,13 +24,13 @@ exclude:
 - vendor
 defaults:
 - scope:
-    path: en
+    path: ''
   values:
     lang: en
     description: Personal website of Rafael Marcén, Computer Science 
       graduate from University of Zaragoza.
 - scope:
-    path: ''
+    path: es
   values:
     lang: es
     description: Web Personal de Rafael Marcén, Ingeniero Informático 
